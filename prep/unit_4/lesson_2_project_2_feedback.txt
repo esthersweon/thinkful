@@ -1,0 +1,29 @@
+CAPSTONE PROJECT FEEDBACK
+
+- Ratio of each race to population in US
+- Ratio of each race in different populations / cities throughout the country
+
+- Normalize by state population to see if # of shootings is unique 
+
+- Difficult to normalize male vs female causes for mass shootings bc not enough females across all causes (around 5 females per category – for the least popular category; other categories will likely have more)
+
+- For last visualization: Could compare face values with ratio (white shooters vs # of white people in city / US, etc.)
+
+INCLUDE STATISTICS - NOT JUST VISUALS / CONCLUSIONS
+
+FOR FATALITY - VICTIM GRAPH
+2 sample kstest
+
+FOR MENTALLY ILL VS NOT ILL GRAPH
+PEARSON CHI-SQUARE TEST
+
+IS AVERAGE AGE DIFFERENT IN DIFFERENT CATEGORIES 
+- T - TEST - 2 NORMAL DISTRIBUTIONS
+- E.G. 2 causes are your 2 normal distributions… see if ages (mean of distribution) are significantly different (t-value)
+
+
+Takeaways: 
+- Add statistics to back up your conclusions
+- Add more visualizations
+    - ADD Venn diagram
+    - ADD MAP, MAYBE SCATTER PLOT / CONTINUOUS DATA
