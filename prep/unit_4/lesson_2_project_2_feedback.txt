@@ -1,5 +1,63 @@
 CAPSTONE PROJECT FEEDBACK
 
+
+
+
+
+FROM MENTOR
+- Scatterplot - numerical vs numerical variables
+- Do all relationships (total victims vs total policemen)
+Histograms
+- One continuous numerical value
+- Counting frequency of that one value
+- Frequency of age or height in population 
+Bar plots
+- Categorical vs numerical
+- Group by date (month)
+
+Box plot
+- Similar to histogram
+- Visualizing data at that
+
+Line plot 
+- Over time 
+
+CLEAN age - 0
+Distribution of age – histogram
+Hard to see outliers in histogram(???)
+
+Comparative plots
+i.e. histogram of male fatalities
+Vs histogram of female fatalities 
+
+Females / males - be transparent about dropping m/f vs unknown
+
+Cause of mass shooting by mentally ill or not
+- 2 bars – mentally ill and not for each cause
+
+QUESTIONS
+- Drop null
+- 
+- Don’t have describe
+
+Employed vs coworkers 
+- Interesting that there are more employed
+- Of employed, try to find top causes
+
+        4. Shooters’ gender wise comparison of (use box plots: Refer to df.groupby('Sex').boxplot(column=attribute, by='Period’) in http://www.alexsalo.xyz/pretty-boxplots-python-matplotlib-pandas-seaborn/). These can be done much more easily using seaborn that we’ll be learning about in the bootcamp course:
+                - Fatalities
+                - Total victims
+                - Policemen killed
+                - Ages
+
+Remember: Box plots - show ranges/outliers, bar plots - categorical variables who have continuous values, histogram - shows the distribution of a continuous variable
+
+
+
+
+
+FROM CAPSTONE REVIEWER
+
 - Ratio of each race to population in US
 - Ratio of each race in different populations / cities throughout the country
 
