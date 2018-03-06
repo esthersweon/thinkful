@@ -44,6 +44,16 @@ Employed vs coworkers
 - Interesting that there are more employed
 - Of employed, try to find top causes
 
+
+
+Generally, the capstone was great. You code looks really clean and easy to understand, you are asking interesting questions and your story was easy to follow. You used multiple types of graphs to illustrate your findings and tried to support your conclusions with statistics.
+
+
+As we discussed during the review, there is a of couple of things that could improve quality your work in the future. One is to remember the importance of statistics in proving your point and don't rely solely on visuals in your conclusions. And the second is, keep in mind that in many cases you'll be sampling a population based on some criteria and conclusions you make could change drastically if you take into consideration what your whole population looks like.
+
+
+Overall, it was a really strong capstone review. Great job!
+
         4. Shooters’ gender wise comparison of (use box plots: Refer to df.groupby('Sex').boxplot(column=attribute, by='Period’) in http://www.alexsalo.xyz/pretty-boxplots-python-matplotlib-pandas-seaborn/). These can be done much more easily using seaborn that we’ll be learning about in the bootcamp course:
                 - Fatalities
                 - Total victims
