@@ -1,3 +1,4 @@
 .ipynb_checkpoints/
 .DS_STORE
 .scrapy/
+main/unit_3/data/*
